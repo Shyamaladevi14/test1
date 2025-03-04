@@ -11,7 +11,7 @@ public class Sample {
 	public static void main(String[] args) {
 		db_conn();
 	}
-	
+	//test
 	public static void db_conn() {
 		
 		try {
